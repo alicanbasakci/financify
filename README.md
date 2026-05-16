@@ -4,7 +4,7 @@ Financify, gelir ve giderlerinizi kolayca takip etmenizi sağlayan modern bir b�
 
 ## 🌐 Canlı Demo
 
-[Netlify linki buraya eklenecek]
+[Financify'ı Görüntüle](https://vocal-chebakia-7ca9bd.netlify.app/)
 
 ## 📸 Ekran Görüntüsü
 
